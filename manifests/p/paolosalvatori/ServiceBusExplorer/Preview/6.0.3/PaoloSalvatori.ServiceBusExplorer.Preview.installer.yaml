@@ -1,0 +1,12 @@
+# Created with YamlCreate.ps1 v2.4.1 $debug=NVS1.CRLF.7-4-4.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: PaoloSalvatori.ServiceBusExplorer.Preview
+PackageVersion: 6.0.3
+InstallerType: zip
+NestedInstallerType: portable
+NestedInstallerFiles:
+- RelativeFilePath: ./ServiceBusExplorer.exe
+  PortableCommandAlias: ServiceBusExplorerPreview
+ManifestType: installer
+ManifestVersion: 1.6.0
