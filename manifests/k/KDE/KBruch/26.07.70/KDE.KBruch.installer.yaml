@@ -9,14 +9,14 @@ ProductCode: kbruch
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-843-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: EA40854BC15C044AFCF89765FE14F87954E6CAE1A6DB1C22EC989CD08784C4B5
+  InstallerUrl: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-863-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: DB0EE80C511171E6C41504044BB18E3F79A196D4F7F5EAE4AA10538A308B19B2
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-843-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: EA40854BC15C044AFCF89765FE14F87954E6CAE1A6DB1C22EC989CD08784C4B5
+  InstallerUrl: https://cdn.kde.org/ci-builds/education/kbruch/master/windows/kbruch-master-863-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: DB0EE80C511171E6C41504044BB18E3F79A196D4F7F5EAE4AA10538A308B19B2
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
